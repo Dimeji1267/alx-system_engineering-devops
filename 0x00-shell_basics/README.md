@@ -1,1 +1,1 @@
-Display current directory contents, including hidden files (starting with .). Use the long format.
+Write a script that prints the type of the file named iamafile. The file iamafile will be in the /tmp directory when we will run your script.
