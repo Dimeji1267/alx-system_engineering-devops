@@ -1,1 +1,1 @@
-Display current directory contents, including hidden (starting with .)
+Display current directory, including hidden files (starting with .)
