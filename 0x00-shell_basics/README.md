@@ -1,1 +1,1 @@
-Create a script that creates the directory named
+Display current directory contents, including hidden (starting with .)
