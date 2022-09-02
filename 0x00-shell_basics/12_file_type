@@ -1,2 +1,2 @@
-#1/bin/bash
-wc -l
+#!/bin/bash
+file/tmp/iamafile
