@@ -1,1 +1,1 @@
-Write a script that sets the permission to the file hello as follows:
+You are not allowed to use commas for this script
