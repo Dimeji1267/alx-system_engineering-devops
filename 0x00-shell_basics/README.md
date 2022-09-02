@@ -1,1 +1,1 @@
-Create a script that creates a directory named
+Move the file betty ffrom /tmp/ to /tmp/_my_first_directory
